@@ -1,0 +1,13 @@
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.exe
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.deps.json
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.runtimeconfig.json
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.runtimeconfig.dev.json
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.dll
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\bin\Release\netcoreapp3.1\TalkingClockVB.pdb
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.vbprojAssemblyReference.cache
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.AssemblyInfoInputs.cache
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.AssemblyInfo.vb
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.vbproj.CoreCompileInputs.cache
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.dll
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.pdb
+C:\Users\seydi\Documents\Visual Studio 2019\Projects\TalkingClockVB\obj\Release\netcoreapp3.1\TalkingClockVB.genruntimeconfig.cache

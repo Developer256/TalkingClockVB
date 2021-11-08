@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TalkingClockVB", "TalkingClockVB.vbproj", "{7AA25033-0291-4D48-B895-396CA8CCB18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA25033-0291-4D48-B895-396CA8CCB18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA25033-0291-4D48-B895-396CA8CCB18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA25033-0291-4D48-B895-396CA8CCB18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA25033-0291-4D48-B895-396CA8CCB18F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EAAAA7A-E266-4DF5-8A2D-00647177106A}
+	EndGlobalSection
+EndGlobal
