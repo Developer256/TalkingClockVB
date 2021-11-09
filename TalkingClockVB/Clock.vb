@@ -14,7 +14,6 @@
                 If String.IsNullOrEmpty(strTime) Then
                     timeStamp = DateTime.Now
                 Else
-                    strTime = Sanitize(strTime)
                     timeStamp = Convert.ToDateTime(Sanitize(strTime))
                 End If
 
